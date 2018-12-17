@@ -1,0 +1,25 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"name": "Gas",
+			"icon": "fa-gas-pump"
+		}, {
+			"id": 2,
+			"name": "Tank",
+			"icon": "fa-bookmark"
+		}, {
+			"id": 3,
+			"name": "Planes",
+			"icon": "fa-fighter-jet"
+		}, {
+			"id": 4,
+			"name": "Sub",
+			"icon": "fa-bus"
+		}, {
+			"id": 5,
+			"name": "Infantry",
+			"icon": "fa-archway"
+		}
+	]
+}

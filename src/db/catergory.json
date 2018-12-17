@@ -1,0 +1,149 @@
+{
+	"catergory": [{
+		"catergoryID": 1,
+		"color": [{
+				"name": "ISABELLINE",
+				"background": "#EAEBED"
+
+			}, {
+				"name": "VIVID ORANGE PEEL",
+				"background": "#F0A202"
+
+			}, {
+				"name": "TANGERINE",
+				"background": "#F18805"
+
+			}, {
+				"name": "EERIE BLACK",
+				"background": "#0E1428"
+
+			}, {
+				"name": "MUMMY'S TOMB",
+				"background": "#7B9E89"
+
+			}, {
+				"name": "PEWTER BLUE",
+				"background": "#9BA7C0"
+
+			}, {
+				"name": "GRANNY SMITH APPLE",
+				"background": "#C4F7A1"
+
+			}
+
+
+		]
+	}, {
+		"catergoryID": 2,
+		"color": [{
+			"name": "CYAN CONRFLOWER BLUE",
+			"background": "#197BBD"
+
+		}, {
+			"name": "UMBER",
+			"background": "#5C573E"
+
+		}, {
+			"name": "MIDDLE GREEN YELLOW",
+			"background": "#A5B452"
+
+		}, {
+			"name": "GRANNY SMITH APPLE",
+			"background": "#C4F7A1"
+
+		}, {
+			"name": "KU CRIMSON",
+			"background": "#E70E02"
+
+		}, {
+			"name": "HARVEST GOLD",
+			"background": "#E89005"
+
+		}]
+	}, {
+		"catergoryID": 3,
+		"color": [{
+			"name": "SEA BLUE",
+			"background": "#006989"
+
+		}, {
+			"name": "MEDIUM SPRING GREEN",
+			"background": "#20FC8F"
+
+		}, {
+			"name": "FELDGRAU",
+			"background": "#3F5E5A"
+
+		}, {
+			"name": "KOMBU GREEN",
+			"background": "#38423B"
+
+		}, {
+			"name": "JET",
+			"background": "#353831"
+
+		}, {
+			"name": "CHARLESTON GREEN",
+			"background": "#2D2D2A"
+
+		}, {
+			"name": "CHAMPAGNE",
+			"background": "#F4E9CD"
+
+		}]
+	}, {
+		"catergoryID": 4,
+		"color": [{
+			"name": "DARK SLATE GRAY",
+			"background": "#204B57"
+
+		}, {
+			"name": "CAMBRIDGE BLUE",
+			"background": "#9DBEBB"
+
+		}, {
+			"name": "GREEN SHEEN",
+			"background": "#77ACA2"
+
+		}, {
+			"name": "TEAL BLUE",
+			"background": "#468189"
+
+		}, {
+			"name": "ISABELLINE",
+			"background": "#F7F4EA"
+
+		}, {
+			"name": "VISTA BLUE",
+			"background": "#80A1D4"
+
+		}]
+	}, {
+		"catergoryID": 5,
+		"color": [{
+			"name": "DARK POWDER BLUE",
+			"background": "#00389E"
+
+		}, {
+			"name": "TUSCAN",
+			"background": "#E4D6A7"
+
+		}, {
+			"name": "MAXIMUM YELLOW RED",
+			"background": "#E9B44C"
+
+		}, {
+			"name": "SIENNA",
+			"background": "#50A2A7"
+
+		}, {
+			"name": "LICORICE",
+			"background": "#1C110A"
+
+		}, {
+			"name": "ELECTRIC BLUE",
+			"background": "#76E5FC"
+
+		}]
+	}]
+}
